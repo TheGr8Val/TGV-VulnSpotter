@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/tgv-vulnspotter-logo.png" alt="Uncover vulnerabilities, master the cyber world!" width="480"/>
+  <img src="assets/Post de Instagram - Uncover vulnerabilities, master the cyber world!.png" alt="Uncover vulnerabilities, master the cyber world!" width="480"/>
 </p>
 
 <h1 align="center">TGV-VulnSpotter</h1>
