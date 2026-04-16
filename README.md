@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/tgv-vulnspotter-logo.png" alt="TGV-VulnSpotter Logo" width="480"/>
+  <img src="assets/tgv-vulnspotter-logo.png" alt="Uncover vulnerabilities, master the cyber world!" width="480"/>
 </p>
 
 <h1 align="center">TGV-VulnSpotter</h1>
@@ -74,6 +74,29 @@ Sin sistema de puntuación CTF. Sin tabla de posiciones. Solo tú, el código y 
 2. 📖 Lee el escenario y el fragmento de código con atención.
 3. 🕵️ Identifica la vulnerabilidad — categoría, causa raíz, explotabilidad.
 4. ✅ Verifica tu respuesta en el archivo de solución vinculado.
+
+---
+
+## 🗺️ Roadmap / Lo que viene
+
+This project is actively growing. Here's what's planned next:
+
+| Feature | Status |
+|---------|--------|
+| 💬 Community answer submissions per challenge | 🔜 Planned |
+| 🏆 Scoring system (points per difficulty tier) | 🔜 Planned |
+| 🏅 Honor Wall — top contributors & spotters | 🔜 Planned |
+| 📦 More challenges across all categories | 🔄 Ongoing |
+| 🌐 Dedicated web interface | 💭 Considering |
+
+> Have a feature idea? Open an issue and let's talk about it.
+
+[ES] Este proyecto está creciendo activamente. Esto es lo que viene:
+
+- 💬 Envío de respuestas comunitarias por desafío
+- 🏆 Sistema de puntuación por nivel de dificultad
+- 🏅 Muro de Honor — mejores contribuidores y cazadores de vulnerabilidades
+- 📦 Más desafíos en todas las categorías
 
 ---
 
