@@ -1,15 +1,26 @@
-# TGV-VulnSpotter
+<p align="center">
+  <img src="assets/tgv-vulnspotter-logo.png" alt="TGV-VulnSpotter Logo" width="480"/>
+</p>
 
-**Sharpen your eye. Hunt the flaw.**
-[ES] **Afila tu ojo. Caza el error.**
+<h1 align="center">TGV-VulnSpotter</h1>
 
-![Challenges](https://img.shields.io/badge/challenges-4-teal)
-![License](https://img.shields.io/badge/license-MIT-blue)
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-support-yellow)](https://buymeacoffee.com/thegr8val)
+<p align="center">
+  <strong>🔍 Sharpen your eye. Hunt the flaw.</strong><br>
+  <em>🔍 Afila tu ojo. Caza el error.</em>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/challenges-4-teal"/>
+  <img src="https://img.shields.io/badge/license-MIT-blue"/>
+  <img src="https://img.shields.io/badge/bilingual-EN%2FES-purple"/>
+  <a href="https://buymeacoffee.com/thegr8val">
+    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-support-yellow"/>
+  </a>
+</p>
 
 ---
 
-## What is this? / ¿Qué es esto?
+## 🧠 What is this? / ¿Qué es esto?
 
 **TGV-VulnSpotter** is a community-driven collection of hands-on cybersecurity challenges where you practice spotting vulnerabilities in real-world-style code snippets, cloud configurations, network rulesets, and architecture patterns.
 
@@ -21,52 +32,52 @@ Sin sistema de puntuación CTF. Sin tabla de posiciones. Solo tú, el código y 
 
 ---
 
-## Difficulty System / Sistema de Dificultad
+## 🎯 Difficulty System / Sistema de Dificultad
 
-| Level | Description |
-|-------|-------------|
-| **Apprentice** | Common, well-documented vulnerability. Good entry point for those building their foundation. |
-| **Hunter** | Requires chaining multiple observations or understanding contextual behavior. |
-| **Archmage** | Subtle, logic-based, or multi-vector. These are the ones that slip through code review. |
+| Level | Icon | Description |
+|-------|------|-------------|
+| **Apprentice** | 🟢 | Common, well-documented vulnerability. Good entry point for those building their foundation. |
+| **Hunter** | 🟡 | Requires chaining multiple observations or understanding contextual behavior. |
+| **Archmage** | 🔴 | Subtle, logic-based, or multi-vector. These are the ones that slip through code review. |
 
 [ES]
 
-| Nivel | Descripción |
-|-------|-------------|
-| **Apprentice** | Vulnerabilidad común y bien documentada. Buen punto de entrada. |
-| **Hunter** | Requiere encadenar múltiples observaciones o entender el comportamiento contextual. |
-| **Archmage** | Sutil, basada en lógica o multi-vector. Estas son las que pasan desapercibidas en code review. |
+| Nivel | Icono | Descripción |
+|-------|-------|-------------|
+| **Apprentice** | 🟢 | Vulnerabilidad común y bien documentada. Buen punto de entrada. |
+| **Hunter** | 🟡 | Requiere encadenar múltiples observaciones o entender el comportamiento contextual. |
+| **Archmage** | 🔴 | Sutil, basada en lógica o multi-vector. Estas son las que pasan desapercibidas en code review. |
 
 ---
 
-## Challenge Index / Índice de Desafíos
+## 📋 Challenge Index / Índice de Desafíos
 
 | ID | Category | Difficulty | Title |
 |----|----------|------------|-------|
-| [VS-001](challenges/web/challenge-001.md) | Web | Hunter | Flask Template Trap |
-| [VS-002](challenges/cloud/challenge-001.md) | Cloud | Apprentice | The Open Bucket |
-| [VS-003](challenges/network/challenge-001.md) | Network | Hunter | East-West Exposure |
-| [VS-004](challenges/code-review/challenge-001.md) | Code Review | Hunter | Shell by Design |
+| [VS-001](challenges/web/challenge-001.md) | 🌐 Web | 🟡 Hunter | Flask Template Trap |
+| [VS-002](challenges/cloud/challenge-001.md) | ☁️ Cloud | 🟢 Apprentice | The Open Bucket |
+| [VS-003](challenges/network/challenge-001.md) | 🔌 Network | 🟡 Hunter | East-West Exposure |
+| [VS-004](challenges/code-review/challenge-001.md) | 🔎 Code Review | 🟡 Hunter | Shell by Design |
 
 ---
 
-## How to Use / Cómo Usar
+## 🚀 How to Use / Cómo Usar
 
-1. Pick a challenge from the index above.
-2. Read the scenario and code snippet carefully.
-3. Identify the vulnerability — category, root cause, exploitability.
-4. Check your answer in the linked solution file.
+1. 🗂️ Pick a challenge from the index above.
+2. 📖 Read the scenario and code snippet carefully.
+3. 🕵️ Identify the vulnerability — category, root cause, exploitability.
+4. ✅ Check your answer in the linked solution file.
 
 [ES]
 
-1. Elige un desafío del índice.
-2. Lee el escenario y el fragmento de código con atención.
-3. Identifica la vulnerabilidad — categoría, causa raíz, explotabilidad.
-4. Verifica tu respuesta en el archivo de solución vinculado.
+1. 🗂️ Elige un desafío del índice.
+2. 📖 Lee el escenario y el fragmento de código con atención.
+3. 🕵️ Identifica la vulnerabilidad — categoría, causa raíz, explotabilidad.
+4. ✅ Verifica tu respuesta en el archivo de solución vinculado.
 
 ---
 
-## Contributing / Contribuir
+## 🤝 Contributing / Contribuir
 
 Want to submit a challenge? Read [CONTRIBUTING.md](CONTRIBUTING.md).
 
@@ -76,11 +87,13 @@ Community submissions are welcome. Bring your best work.
 
 ---
 
-## Support / Apoya el Proyecto
+## ☕ Support / Apoya el Proyecto
 
 If this helps you level up your skills, consider buying me a coffee.
 
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-support-yellow)](https://buymeacoffee.com/thegr8val)
+<a href="https://buymeacoffee.com/thegr8val">
+  <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-support-yellow" alt="Buy Me A Coffee"/>
+</a>
 
 ---
 
